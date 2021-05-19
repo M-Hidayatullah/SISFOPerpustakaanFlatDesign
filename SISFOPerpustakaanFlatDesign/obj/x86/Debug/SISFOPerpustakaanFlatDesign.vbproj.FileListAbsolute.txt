@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2010\Projects\SISFOPerpustakaanFlatDesign\SISFOPerpustakaanFlatDesign\bin\Debug\SISFOPerpustakaanFlatDesign.exe
+c:\users\user\documents\visual studio 2010\Projects\SISFOPerpustakaanFlatDesign\SISFOPerpustakaanFlatDesign\bin\Debug\SISFOPerpustakaanFlatDesign.pdb
+c:\users\user\documents\visual studio 2010\Projects\SISFOPerpustakaanFlatDesign\SISFOPerpustakaanFlatDesign\bin\Debug\SISFOPerpustakaanFlatDesign.xml
+c:\users\user\documents\visual studio 2010\Projects\SISFOPerpustakaanFlatDesign\SISFOPerpustakaanFlatDesign\obj\x86\Debug\SISFOPerpustakaanFlatDesign.MenuUtama.resources
+c:\users\user\documents\visual studio 2010\Projects\SISFOPerpustakaanFlatDesign\SISFOPerpustakaanFlatDesign\obj\x86\Debug\SISFOPerpustakaanFlatDesign.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\SISFOPerpustakaanFlatDesign\SISFOPerpustakaanFlatDesign\obj\x86\Debug\SISFOPerpustakaanFlatDesign.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\SISFOPerpustakaanFlatDesign\SISFOPerpustakaanFlatDesign\obj\x86\Debug\SISFOPerpustakaanFlatDesign.exe
+c:\users\user\documents\visual studio 2010\Projects\SISFOPerpustakaanFlatDesign\SISFOPerpustakaanFlatDesign\obj\x86\Debug\SISFOPerpustakaanFlatDesign.xml
+c:\users\user\documents\visual studio 2010\Projects\SISFOPerpustakaanFlatDesign\SISFOPerpustakaanFlatDesign\obj\x86\Debug\SISFOPerpustakaanFlatDesign.pdb

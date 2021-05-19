@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SISFOPerpustakaanFlatDesign
+</name>
+</assembly>
+<members>
+<member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.admin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.admin1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.anggota">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.avatar50px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.buku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.cari_buku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.close15px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.data_master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.dayat">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.FB_IMG_16002613993636703">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.kategori_buku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.lainnya">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.lap_data_master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.lap_denda">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.lap_peminjaman">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.laporan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.maximize15px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.minimize15px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.peminjaman">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.pengembalian">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.pie_chart_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.rak_buku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.tentang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISFOPerpustakaanFlatDesign.My.Resources.Resources.transaksi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SISFOPerpustakaanFlatDesign.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
