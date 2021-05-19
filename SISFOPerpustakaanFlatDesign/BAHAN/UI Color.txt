@@ -1,0 +1,10 @@
+top: Silver
+
+left-side : 63; 48; 120
+
+content: WhiteSmoke
+
+button on content: Silver
+
+label on button: 63; 48; 120
+
